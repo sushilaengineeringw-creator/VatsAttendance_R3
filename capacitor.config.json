@@ -1,0 +1,7 @@
+{
+  "appId": "com.vats.fieldattendance",
+  "appName": "VATS Attendance",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
